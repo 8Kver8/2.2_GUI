@@ -9,7 +9,21 @@ namespace _2._2_GUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(Logic.SwapPairs(word.Text));
+            string inputWord;
+            try
+            {
+                inputWord = word.Text;
+                if (string.IsNullOrWhiteSpace(inputWord))
+                {
+                    throw new FormatException();
+                }
+            }
+            catch (FormatException)
+            {
+                return;
+            }
+
+            MessageBox.Show(Logic.SwapPairs(inputWord));
         }
     }
 

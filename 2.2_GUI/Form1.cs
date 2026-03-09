@@ -5,6 +5,8 @@ namespace _2._2_GUI
         public Form1()
         {
             InitializeComponent();
+
+            word.Text = Properties.Settings.Default.word.ToString();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -22,6 +24,9 @@ namespace _2._2_GUI
             {
                 return;
             }
+
+            Properties.Settings.Default.word = inputWord;
+            Properties.Settings.Default.Save();
 
             MessageBox.Show(Logic.SwapPairs(inputWord));
         }

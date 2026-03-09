@@ -1,0 +1,17 @@
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\bin\Debug\net8.0-windows\2.2_GUI.exe
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\bin\Debug\net8.0-windows\2.2_GUI.deps.json
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\bin\Debug\net8.0-windows\2.2_GUI.runtimeconfig.json
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\bin\Debug\net8.0-windows\2.2_GUI.dll
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\bin\Debug\net8.0-windows\2.2_GUI.pdb
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\_2._2_GUI.Form1.resources
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\2.2_GUI.csproj.GenerateResource.cache
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\2.2_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\2.2_GUI.AssemblyInfoInputs.cache
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\2.2_GUI.AssemblyInfo.cs
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\2.2_GUI.csproj.CoreCompileInputs.cache
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\2.2_GUI.sourcelink.json
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\2.2_GUI.dll
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\refint\2.2_GUI.dll
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\2.2_GUI.pdb
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\2.2_GUI.genruntimeconfig.cache
+C:\Users\verki\OneDrive\Рабочий стол\proj\2.2_GUI\2.2_GUI\obj\Debug\net8.0-windows\ref\2.2_GUI.dll
